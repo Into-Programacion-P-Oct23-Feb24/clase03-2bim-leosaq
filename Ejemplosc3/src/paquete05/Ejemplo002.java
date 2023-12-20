@@ -32,6 +32,9 @@ public class Ejemplo002 {
 }
 /*
 En este programa primeramente se declaran los valores que van a ir en las 
-respectivas filas y columnas para ende crear dos ciclos for que van a recorrer 
-todo el programa, en el segundo ciclo for utilice "arreglo[fila]" para poder 
+respectivas filas y columnas, para consiguiente crear dos ciclos "for" 
+que van a recorrer todo el programa. Lo importante de este programa es que 
+al utilizar un "if" se puede comparar que mientras el contador en ambos ciclos 
+"for" aumenta puedo comparar que sean iguales tanto en fila y columna, y por 
+ende pueda sumarlos de acuerdo a la problematica.
 */
